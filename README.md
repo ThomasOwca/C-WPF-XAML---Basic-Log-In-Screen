@@ -1,3 +1,4 @@
+# WPF Basic Log In Screen
 This is a simple log in screen similar to those found in real world applications.
 
 I created this in early 2018 when first familiarizing myself with the WPF/XAML technology.
