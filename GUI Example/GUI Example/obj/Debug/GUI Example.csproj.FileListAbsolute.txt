@@ -1,0 +1,17 @@
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\bin\Debug\GUI Example.exe.config
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\bin\Debug\GUI Example.exe
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\bin\Debug\GUI Example.pdb
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Debug\GUI Example.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Debug\MainWindow.g.cs
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Debug\App.g.cs
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Debug\GUI Example_MarkupCompile.cache
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Debug\GUI Example_MarkupCompile.lref
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Debug\MainWindow.baml
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Debug\GUI Example.g.resources
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Debug\GUI_Example.Properties.Resources.resources
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Debug\GUI Example.csproj.GenerateResource.Cache
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Debug\GUI Example.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Debug\GUI Example.exe
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Debug\GUI Example.pdb
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Debug\Window1.g.cs
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Debug\Window1.baml

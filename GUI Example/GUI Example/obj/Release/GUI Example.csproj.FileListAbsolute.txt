@@ -1,0 +1,17 @@
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Release\MainWindow.g.cs
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Release\Window1.g.cs
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Release\App.g.cs
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Release\MainWindow.baml
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Release\Window1.baml
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Release\GUI_Example.Properties.Resources.resources
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Release\GUI Example.csproj.GenerateResource.Cache
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Release\GUI Example.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\bin\Release\DSR Member Log In.exe.config
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\bin\Release\DSR Member Log In.exe
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\bin\Release\DSR Member Log In.pdb
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Release\DSR Member Log In_MarkupCompile.cache
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Release\DSR Member Log In_MarkupCompile.lref
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Release\DSR Member Log In.g.resources
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Release\DSR Member Log In.exe
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Release\DSR Member Log In.pdb
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\GUI Example\GUI Example\obj\Release\GUI Example.csprojAssemblyReference.cache
