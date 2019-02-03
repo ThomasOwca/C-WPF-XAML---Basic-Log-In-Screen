@@ -11,6 +11,6 @@ Thanks for looking,
 
 Thomas O.
 
-<img src="Images/img1.PNG" alt="img1" width="450" />
+<img src="Images/img1.PNG" alt="img1" width="850" />
 
-<img src="Images/img2.PNG" alt="img2" width="350" />
+<img src="Images/img2.PNG" alt="img2" width="550" />
